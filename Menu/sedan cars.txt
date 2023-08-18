@@ -1,0 +1,11 @@
+#sedan cars
+Hyundai Verna 1200/-
+Maruti Dzire 1200/-
+Honda City 1300/-
+Hyundai Aura 1500/-
+Volkswagen Virtus 1800/-
+Honda Amaze 1600/-
+Mercedes-Benz S-Class 4000/-
+Skoda Slavia 2000/-
+Toyota Camry 2550/-
+
